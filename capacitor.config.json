@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "minghang",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
